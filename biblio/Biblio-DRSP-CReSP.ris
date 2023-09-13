@@ -77,11 +77,11 @@ PB  - American Psychological Association
 SN  - 978-1-4338-3314-4 978-1-4338-3236-9
 KW  - Adolescent Development
 KW  - Adult Development
+KW  - Emerging Adulthood
+KW  - Life Changes
+KW  - Employment Status
 KW  - Child Labor
 KW  - Educational Attainment Level
-KW  - Emerging Adulthood
-KW  - Employment Status
-KW  - Life Changes
 KW  - Occupational Success
 ER  - 
 
@@ -312,6 +312,7 @@ AU  - Paternoster, Raymond
 AU  - Brame, Robert
 AU  - Sweeten, Gary
 T2  - Journal of Quantitative Criminology
+AB  - On the basis of prior research findings that employed youth, and especially intensively employed youth, have higher rates of delinquent behavior and lower academic achievement, scholars have called for limits on the maximum number of hours per week that teenagers are allowed to work. We use the National Longitudinal Survey of Youth 1997 to assess the claim that employment and work hours are causally related to adolescent problem behavior. We utilize a change model with age-graded child labor laws governing the number of hours per week allowed during the school year as instrumental variables. We find that these work laws lead to additional number of hours worked by youth, which then lead to increased high school dropout but decreased delinquency. Although counterintuitive, this result is consistent with existing evidence about the effect of employment on crime for adults and the impact of dropout on youth crime.
 DA  - 2008/12//
 PY  - 2008
 DO  - 10.1007/s10940-008-9055-5
@@ -502,5 +503,32 @@ LA  - en
 SN  - 00380407
 UR  - https://www.jstor.org/stable/2112599?origin=crossref
 Y2  - 2023/03/30/16:08:07
+ER  - 
+
+TY  - RPRT
+TI  - Analyse d'impact réglementaire : Projet de loi sur l'encadrement du travail des enfants
+AU  - Ministère du Travail
+CY  - Québec
+DA  - 2023/04/28/
+PY  - 2023
+LA  - fr
+PB  - Gouvernement du Québec
+UR  - https://www.travail.gouv.qc.ca/fileadmin/fichiers/Documents/etudes_d_impact/AIR_Trav_Enf_publication2023.pdf
+ER  - 
+
+TY  - RPRT
+TI  - Le travail des jeunes au Québec
+AU  - Bélanger, Félix
+AU  - Picard, Catherine
+AB  - Depuis quelques années, le Québec subit les effets d’une pénurie de main-d’œuvre qui affecte de nombreux secteurs de l’économie. Pour remédier à cette situation, des entreprises se tournent vers des travailleuses et des travailleurs de plus en plus jeunes afin de pourvoir leurs besoins en main-d’œuvre. Divers articles et reportages récents font d’ailleurs état d’enfants qui commencent à travailler dès l’âge de 11 ou 12 ans. Il n’y a en effet pas d’âge minimal pour travailler au Québec.
+
+Afin de faire un état de la situation des jeunes au travail, Première lecture propose une étude détaillée sur le sujet. Cette note de recherche présente le cadre légal québécois du travail des jeunes et un portrait statistique pour mieux saisir l’ampleur du phénomène. Enfin, la note aborde différentes conséquences que peut entraîner la conciliation études-travail en bas âge : les risques de décrochage scolaire, les accidents de travail et les problèmes de santé mentale.
+CY  - Québec
+DA  - 2023/01/25/
+PY  - 2023
+LA  - fr
+M3  - Étude détaillée - Note de recherche
+PB  - Bibliothèque de l’Assemblée nationale du Québec
+UR  - https://www.bibliotheque.assnat.qc.ca//fr/document/278
 ER  - 
 
