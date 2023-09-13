@@ -1,5 +1,7 @@
 # Biblio-DRSP-CReSP
 
+Ce canal vise à mettre en commun les ressources documentaires jugées utiles par les membres du projet.
+
 ## Thèmes
 
 - Transition à l'âge adulte
@@ -39,7 +41,7 @@ Vous pouvez importer la bibliothèque dans votre logiciel de gestion bibliograph
 Si vous souhaitez que des items soient ajoutés à la bibliothèque :
 
 - Si vous utilisez Zotero : vous pouvez les ajouter directement.
-- Si vous n'utilisez pas Zotero : veuillez contacter Mathieu Caron-Diotte, [mathieu.caron-diotte@umontreal.ca](mathieu.caron-diotte@umontreal.ca).
+- Si vous n'utilisez pas Zotero : veuillez contacter Mathieu Caron-Diotte, [mathieu.caron-diotte@umontreal.ca](mathieu.caron-diotte@umontreal.ca) avec les informations relatives à l'item.
 
 ## Responsables
 
